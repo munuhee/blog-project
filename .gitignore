@@ -12,6 +12,11 @@ ENV/
 pip-log.txt
 pip-delete-this-directory.txt
 
+# migration files
+migrations/
+
+instance/
+
 # Package Files
 *.egg
 *.egg-info
